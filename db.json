@@ -1,7 +1,0 @@
-{
-    "pumps": [
-        { "id": 1, "lat": 42.381047, "lon": -71.099001, "notes": "Right outside Somervelo." },
-        { "id": 2, "lat": 42.367979, "lon": -71.102072, "notes": "Right outside Whole Foods."},
-        { "id": 3, "lat": 42.361754, "lon": -71.097386, "notes": "Right outside Cambridge Bicycle."}
-    ]
-}
